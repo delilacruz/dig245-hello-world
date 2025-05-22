@@ -48,10 +48,16 @@ See Moodle.
 
 
 
-## Preparation 
+## Concept 
 
-- 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in Critical Web Design
+- 📚 "Introduction" (chapter 0) and "Networks" (chapter 1) in *Critical Web Design*
+
+
+#### Articles
+
 - 📚 B.J. Keeton [The History Behind “Hello World”](https://www.elegantthemes.com/blog/wordpress/the-history-behind-hello-world) (2020)
+
+
 
 
 
@@ -61,8 +67,15 @@ See Moodle.
 1. [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your copy to your machine. 
 
 
-> Glitch version: https://glitch.com/edit/#!/dig245-hello-world
 
+
+<!-- Add git milestones here 
+
+1. Install Git on your machine
+1. Create a repository from scratch
+1. Publish a webspage
+
+-->
 
 
 
