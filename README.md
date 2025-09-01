@@ -87,7 +87,7 @@ Add the following in `index.html`. Use HTML to make your text readable. Experime
 1. Why are you taking this course? What are your goals?
 1. What experience do you have creating content for the web or programming?
 1. Select a tutorial from [learn-computing](https://github.com/omundy/learn-computing) (other than command line and Git). Follow the instructions and summarize it 100-150 words.
-1. Select 3 web-based projects that represent your interests, aspirations, and passions from the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/). List each project with its title, link, and 2–3 sentences describing it and why it is remarkable.
+1. Select 3 web-based projects that represent your interests, aspirations, and passions from the [Critical Web Design Index](https://criticalwebdesign.github.io/index/). List each project with its title, link, and 2–3 sentences describing it and why it is remarkable.
 1. Add an HTML comment explaining if any part of this assignment was difficult.
 
 
